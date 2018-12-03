@@ -1,5 +1,5 @@
 # ADVENT OF CODE 2018 - DAY 1 #
-input_file_path = './inputs_aoc_d1.txt'
+input_file_path = './aoc_d1_inputs.txt'
 
 
 # Part 1 #
